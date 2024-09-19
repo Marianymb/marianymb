@@ -13,4 +13,16 @@ p{
 
 .EILISH {
     width: 50%;
+} 
+
+element.style { 
+
+    border: slategrey;
+
+}
+
+h1 {
+     font-size: 40px;
+    padding: 20px;
+    margin-top: 5px;
 }
